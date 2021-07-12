@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mat.budzisz@gmail.com
+	name = Mateusz Budzisz
